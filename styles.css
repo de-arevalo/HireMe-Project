@@ -1,0 +1,62 @@
+body {
+    background-color:#bcd1db;
+    margin-left: 0;
+    padding-left: 40px;
+}
+
+h1 {
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    font-weight: normal;
+    font-size: 45px;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: normal;
+    text-align: center;
+}
+
+.blue {
+    color: white;
+    text-decoration: underline;
+    font-family: 'Shadows Into Light', cursive;
+    line-height: 1px;
+    font-weight: normal;
+    text-indent: 50px;
+}
+
+ul {
+    text-align: left;
+    color: white;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+p {
+    line-height: .1px;
+    color: white;
+    text-align: left;
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: normal;
+    text-indent: 50px;
+}
+
+h3 {
+    color: white;
+    text-align: left;
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: normal;
+    text-decoration: underline dashed;
+    text-indent: 50px;
+}
+
+h2 {
+    text-align: center;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+}
